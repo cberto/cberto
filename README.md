@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate on **Souther Horizont**
+- 👯 I’m looking to collaborate on **Souther Horizon**
 
 - ⚡ Fun fact **learn**
 
