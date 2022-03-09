@@ -18,7 +18,6 @@ I am creative and with a lot of initiative. I am eager to learn and continue to 
 
 - 👨‍💻 I’m currently working on **Angular and .NET**
 - 🌱 I am now learning **React and Computer Security.**
-- 👯 I’m looking to collaborate on **Souther Horizon**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo  (I love Japan 🇯🇵)
 
