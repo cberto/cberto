@@ -16,10 +16,10 @@ I am creative and with a lot of initiative. I am eager to learn and continue to 
 ##  🧐 About 
 
 
-- 👨‍💻 I’m currently working on **Angular and .NET**
-- 🌱 I am now learning **React and FUNDAMENTALS OF HACKING & DEFENSE** at Ekoparty Hackademy.
+- 👨‍💻 I am currently working in Santander Tecnologia with **React and .NET**.
+- 🌱 I am now learning **FUNDAMENTALS OF HACKING & DEFENSE** at Ekoparty Hackademy.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo  (I love Japan 🇯🇵)
+- ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo
 
 
 
