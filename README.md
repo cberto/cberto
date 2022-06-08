@@ -7,9 +7,9 @@
 
 
 
-## 👋 Introduction
-I am a computer technician at the Instituto Técnico Industrial San Judas Tadeo.
-I am creative and with a lot of initiative. I am eager to learn and continue to develop both personally and professionally. Focused on innovation and development of new technologies. Able to take responsibility for the challenges and goals that the organization poses me. Adaptability to frequent change of tasks or decisions taken by my work group.
+## 💻 Introduction
+I am a computer technician at the Instituto Técnico Industrial San Judas Tadeo. I am creative and have a lot of initiative. I am eager to learn and continue to develop both personally and professionally. Focused on innovation and development of new technologies. Able to take responsibility for the challenges and objectives that the organization sets me. Adaptability to frequent change of tasks or decisions taken by my work group.
+
 
 
 
@@ -19,7 +19,7 @@ I am creative and with a lot of initiative. I am eager to learn and continue to 
 - 👨‍💻 I am currently working in Santander Tecnologia with **React and .NET**.
 - 🌱 I am now learning **FUNDAMENTALS OF HACKING & DEFENSE** at Ekoparty Hackademy.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo
+- ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo 🥋
 
 
 
