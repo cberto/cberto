@@ -17,8 +17,7 @@ I am a computer technician at the Instituto Técnico Industrial San Judas Tadeo.
 
 
 - 👨‍💻 I am currently working in Santander Tecnologia with **React and .NET**.
-- 🌱 I am now learning **FUNDAMENTALS OF HACKING & DEFENSE** at Ekoparty Hackademy.
-- :neutral_face: I have a **love/hate** relationship with **Programming**
+- 🌱 I am now learning **Next js** .
 - ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo 🥋
 
 
