@@ -16,7 +16,7 @@ I am a computer technician at the Instituto Técnico Industrial San Judas Tadeo.
 ##  🧐 About 
 
 
-- 👨‍💻 I am currently working in Santander Tecnologia with **React and .NET**.
+- 👨‍💻 I am currently working in Santander Tecnologia and IT Patagonia with **React,Angular,Next js and .NET**.
 - 🌱 I am now learning **Next js** .
 - ⚡ Fun fact I love to read, learn new technologies and  play sports. I practice Judo and Kendo 🥋
 
