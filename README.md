@@ -8,10 +8,10 @@
 
 
 ## 💻 Introduction
-I a computer technician at the Instituto Técnico Industrial San Judas Tadeo. I possess a strong inclination towards creativity and am driven by initiative. As a dedicated professional, I am proactive and hold a profound commitment to continuous learning, both personally and professionally. My enthusiasm lies in imparting knowledge through training, while my primary focus remains on driving innovation and harnessing emerging technologies to effectively address challenges and attain objectives.
+I am a computer technician at the Instituto Técnico Industrial San Judas Tadeo. I possess a strong inclination towards creativity and am driven by initiative. As a dedicated professional, I am proactive and hold a profound commitment to continuous learning, both personally and professionally. My enthusiasm lies in imparting knowledge through training, while my primary focus remains on driving innovation and harnessing emerging technologies to effectively address challenges and attain objectives.
 
-I am known for my adeptness at embracing change and readily shouldering responsibilities within the organization. My dedication to punctuality, collaborative teamwork, and unwavering adherence to professional ethics are central to my work ethos. I remain unceasingly committed to honing my skills and channeling them towards bolstering the triumph of the company
 
+I am known for my adeptness at embracing change and readily shouldering responsibilities within the organization. My dedication to punctuality, collaborative teamwork, and unwavering adherence to professional ethics are central to my work ethos. I remain unceasingly committed to honing my skills and channeling them towards bolstering the triumph of the company.
 
 
 
